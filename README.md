@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayomikun 👋
 
-**Software Engineer · Modern Web & AI Systems**
+**Software Engineer · Full-Stack · AI / LLM**
 
 Karlskrona, Sweden
 
@@ -17,9 +17,9 @@ Karlskrona, Sweden
 
 ## About Me
 
-Software Engineer specialised in designing and developing scalable, production-ready web applications and API-driven systems. Strong focus on maintainable architecture, reusable component systems, performance optimisation, and modern software engineering best practices.
+Full-stack Software Engineer with 5+ years shipping production systems across the complete stack React/TypeScript frontends, Python/FastAPI backends, Docker containerisation, GitHub Actions CI/CD, and LLM orchestration pipelines. Engineered a fault-isolated asyncio backend orchestrating 4 concurrent Claude + GPT-4 analysis pipelines with 80% Pytest-gated test coverage and mypy strict enforced on every pull request. Raised a live booking platform from Lighthouse 62 to 91 (+47%) and cut API calls by 60%.
 
-Experienced in applied AI workflows, prompt engineering, and leveraging LLM-based tools to improve productivity and problem-solving. Currently completing an M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis on **Generative AI for Requirements Smell Detection**.
+M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis on **AI-assisted Detection of Requirements Smells**.
 
 ---
 
@@ -32,25 +32,35 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-### Tools & Platforms
+### DevOps & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
@@ -60,15 +70,15 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 ![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### Software Engineering
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![Modular Design](https://img.shields.io/badge/Modular_Design-4A90D9?style=flat&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4A90D9?style=flat&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance_Optimisation-F7931E?style=flat&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0052CC?style=flat&logoColor=white)
 
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### AI & LLM
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat&logoColor=white)
 
 ---
@@ -89,28 +99,36 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 
 ## Experience
 
-**Web Developer (Frontend-Focused)** · FFSD, Lagos, Nigeria · *Dec 2023 – Aug 2024*
-- Designed and implemented scalable frontend architecture using React, TypeScript, and modular component-based practices
-- Built reusable UI component systems with Shadcn UI and Tailwind CSS; implemented Redux-based global state management
-- Applied performance optimisation techniques: lazy loading, code splitting, and efficient state handling
-- Leveraged GPT-4 and Claude to support problem-solving, debugging, and development productivity
-- Used Docker-based environments and Git workflows for development consistency
+**Software Engineer** · FFSD, Lagos, Nigeria · *Dec 2023 – Aug 2024*
+- Architected and delivered FFSD Travels end-to-end: component architecture, Redux state design, typed REST API service layer integrating 5+ third-party APIs (flights, hotels, payments), Docker containerisation, and Netlify CI/CD serving real users in production.
+- Raised Lighthouse performance score from **62 to 91 (+47%)** via lazy loading, route-based code splitting, API response caching, and memoisation across a microservices-integrated React/TypeScript frontend.
+- Reduced production API calls by **60%** by introducing debounced search and request-level caching in Redux, measured via network profiling.
+- Grew frontend test coverage from **0% to 70%** by authoring Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
+- Eliminated UI regression bugs zero design-regression QA reports in the final two sprints by engineering a reusable library of 30+ Shadcn UI / Tailwind CSS components as the single source of truth across the codebase.
+- Standardised deployments with Docker and Netlify CI/CD, eliminating environment drift and ensuring reproducible builds across dev, staging, and production.
+- Ensured GDPR compliance and WCAG accessibility across all customer-facing booking and checkout flows through structured code review and QA collaboration.
+- Coached and mentored junior developers via code review and pair programming, enforcing consistent component architecture, testing discipline, and accessibility best practices.
 
-**Frontend Engineer (Junior Software Engineer)** · Pedistack, Remote · *Jan 2023 – Nov 2023*
-- Developed reusable and modular UI components using React and JavaScript for responsive web applications
-- Integrated REST APIs and Redux state management for interactive, data-driven user experiences
-- Collaborated in agile sprint cycles and participated in debugging and frontend quality improvement
+**Software Engineer (Frontend)** · Pedistack · Fintech · Remote · *Jan 2023 – Nov 2023*
+- Eliminated stale-state and race-condition defects by implementing Redux state management with structured action patterns and typed REST API integrations.
+- Reduced reported UI layout bugs by **25%** (by QA ticket volume) via consistent responsive design across desktop and mobile breakpoints.
+- Cut code duplication across 4+ product areas by building a shared library of 20+ modular React components, adopted team-wide as the standard design pattern.
+
 
 **Frontend Developer (Intern)** · PricewaterhouseCoopers (PwC), Lagos, Nigeria · *Apr 2021 – Sep 2021*
-- Developed responsive enterprise UI components using Angular for internal business applications
-- Collaborated with product and QA teams to align frontend development with business and testing requirements
+- Delivered enterprise Angular UI components meeting PwC's GDPR compliance and WCAG accessibility standards, achieving QA sign-off within sprint timelines through cross-functional collaboration with product, QA, and backend engineering teams.
+- Contributed to UI testing cycles and technical documentation, building foundational knowledge of large-scale enterprise-grade software delivery within a structured SDLC.
 
 ---
 
 ## Featured Projects
 
 ### [✈️ FFSD Travels](https://ffsdtravels.com/) — Travel Booking Platform
-> Responsive travel booking platform built with React, TypeScript, Redux, and REST APIs. Features dynamic search, filtering, and API-driven booking workflows. Implements reusable component systems with Shadcn UI and Tailwind CSS, with performance optimisation via lazy loading and modular state management.
+> Production travel booking platform serving real end users, built with React/TypeScript using a micro frontend-inspired feature-based architecture, Redux slice state management, and a REST API service layer integrating 5+ third-party APIs (flights, hotels, payments). Raised Lighthouse performance from 62 to 91 (+47%) and reduced API calls by 60%.
+
+- Increased Lighthouse performance score by **47% (62 → 91)** via lazy loading, route-based code splitting, debounced queries, API response caching, and memoisation.
+- Grew frontend test coverage from **0% to 70%** with Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
+- Engineered a reusable component library of **30+ Shadcn UI / Tailwind CSS components** adopted as the single source of truth, eliminating UI regression bugs (zero design-regression QA reports in the final two sprints).
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -123,23 +141,60 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 
 ---
 
-### [🤖 ReqSmell — AI Requirements Smell Detection](https://reqsmell.netlify.app)
-> M.Sc. thesis prototype: a GenAI-powered two-tier web application that detects **ambiguity** and **inconsistency** in natural-language software requirements. Uploads a CSV of requirements, runs up to four concurrent LLM analysis pipelines (Claude × ChatGPT, ambiguity × inconsistency), and produces interactive dashboards and downloadable PDF reports with per-requirement explanations and reformulation suggestions.
+### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
+> M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services a React/TypeScript SPA frontend and a Python/FastAPI backend with 4 concurrent async LLM analysis pipelines (Claude API + GPT-4), fault-isolated execution, and fully client-side PDF report generation.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- Engineered 4 concurrent async LLM analysis pipelines (Claude API + GPT-4) with `asyncio` orchestration achieving fault-isolated execution one pipeline failure never affects the others (zero cross-pipeline contamination during thesis evaluation).
+- Enforced 80% backend test coverage and zero type errors on every pull request via GitHub Actions CI gates requiring Pytest, mypy strict mode, Ruff linting, and TypeScript strict mode (`zero any`).
+- Delivered fully client-side PDF report generation (multi-page comparison reports with statistics and charts) without any server-side rendering using jsPDF and html2canvas.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://reqsmell.netlify.app)
 
 ---
 
-### [🛒 MikunStore — E-Commerce Platform](https://productseacrh.netlify.app/)
-> Full-featured e-commerce app built with React 18 and Vite. Browse 100 products across 9 categories with search, filtering, sorting, and pagination. Features cart management, favourites, side-by-side product comparison, multi-currency pricing, 5-language i18n, dark/light mode, and a jsPDF-generated receipt on checkout. End-to-end tested with Cypress.
+### [✈️ MikunAir — Full Stack Flight Booking Application](https://mikunair.netlify.app)
+> Production-grade full-stack flight booking system (2025 – 2026): two independently versioned and containerised services a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API each with its own GitHub Actions CI pipeline enforcing TypeScript strict mode and ESLint zero-warning gates on every push.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- Implemented a dual-protocol API: GraphQL (Apollo Server, depth-limited to prevent query abuse) for flight search with rich Airport object types, and REST (Express + Zod input validation) for bookings, authentication, and profiles all responses projected through explicit DTOs with stack traces never serialised to API output.
+- Engineered overbooking prevention using PostgreSQL `SELECT FOR UPDATE` inside an explicit Drizzle ORM transaction to serialise concurrent seat-decrement operations; a dedicated integration test fires two simultaneous requests against the last available seat and asserts exactly one succeeds.
+- Designed a hub-and-spoke connecting-flight engine pairing direct and connecting routes in a single query round-trip, enforcing 45-minute/4-hour layover windows surfaced as four distinct paginated result sections with mutual-exclusion selection state.
+- Applied GDPR-compliant identity management: consent captured at registration; erasure anonymises all PII fields in-place (preserving 7-year booking retention); integration test IT-011 asserts zero PII fields remain post-erasure; a recursive Winston log sanitiser redacts 12 PII field names before any structured log output.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=flat&logo=apollographql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://mikunair.netlify.app)
+
+---
+
+### [🛒 MikunStore — E-Commerce Platform](https://productseacrh.netlify.app/)
+> Full-featured e-commerce app built with React 18 and Vite. Browse 100 products across 9 categories with search, filtering, sorting, and pagination. Features cart management, favourites, side-by-side product comparison, multi-currency pricing, 5-language i18n, dark/light mode, and a jsPDF-generated receipt on checkout.
+
+- Delivered a complete e-commerce experience multi-category browsing, cart, checkout, and client-side PDF receipt generation validated with Cypress end-to-end tests across the full purchase funnel.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
@@ -150,10 +205,12 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 
 ---
 
-### [🎬 CineVault — Movie Recommendation Platform](https://mikun-films.netlify.app/)
-> Responsive movie discovery app built with React 18 and TypeScript, powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV). State managed with Redux Toolkit; API layer via Axios with automatic auth and language headers.
+### [🎬 CineVault — Movie Discovery Platform](https://mikun-films.netlify.app/)
+> Type-safe movie discovery platform powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV).
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- Built a type-safe film discovery platform integrating the TMDB REST API with genre filtering and per-request language headers; TypeScript strict mode enforced across all API response shapes and Redux slices.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
@@ -167,8 +224,8 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 ## Education
 
 🎓 **M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Jun 2026)*
-> Thesis: *Evaluating Generative AI as a Support for the Detection of Practically Relevant Requirements Smells*
-> Coursework: Software Architecture · Software Quality · Software Testing · Applied AI · Software Metrics
+> Thesis: *AI-assisted Detection of Requirements Smells*
+> Coursework: Software Architecture · Applied AI · Software Metrics · Software Quality · Software Testing
 
 🎓 **B.Tech. Computer Science** — Bell University of Technology, Nigeria *(Sep 2018 – Aug 2022)*
 > Second Class Honours · CGPA: 3.43/5.0
@@ -186,6 +243,6 @@ Experienced in applied AI workflows, prompt engineering, and leveraging LLM-base
 
 <div align="center">
 
-*Open to collaborations on frontend systems and AI-assisted engineering projects*
+*Open to collaborations on full-stack systems and AI-assisted engineering projects*
 
 </div>
