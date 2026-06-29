@@ -33,8 +33,10 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ### Frontend
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -121,24 +123,6 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 ---
 
 ## Featured Projects
-
-### [✈️ FFSD Travels](https://ffsdtravels.com/) — Travel Booking Platform
-> Production travel booking platform serving real end users, built with React/TypeScript using a micro frontend-inspired feature-based architecture, Redux slice state management, and a REST API service layer integrating 5+ third-party APIs (flights, hotels, payments). Raised Lighthouse performance from 62 to 91 (+47%) and reduced API calls by 60%.
-
-- Increased the Lighthouse performance score by **47% (62 to 91)** via lazy loading, route-based code splitting, debounced queries, API response caching, and memoisation.
-- Grew frontend test coverage from **0% to 70%** with Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
-- Engineered a reusable component library of **30+ Shadcn UI / Tailwind CSS components** adopted as the single source of truth, producing zero design-regression QA reports in the final two sprints.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://ffsdtravels.com/)
-
----
 
 ### [🤖 ReqSmell AI Requirements Analysis Tool](https://reqsmell.netlify.app)
 > M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services, a React/TypeScript SPA frontend and a Python/FastAPI backend, with 4 concurrent async LLM analysis pipelines (Claude API and GPT-4), fault-isolated execution, and fully client-side PDF report generation.
