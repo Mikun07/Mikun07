@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ayomikun 👋
+# Hi, I'm Ayomikun (Oluwasemilore) Festus-Olaleye 👋
 
-**Software Engineer · Full-Stack · AI / LLM**
+**Full-Stack Software Engineer · TypeScript · Python · React · FastAPI · Docker · AI/LLM Orchestration · GitHub Actions CI/CD · MSc Software Engineering**
 
 Karlskrona, Sweden
 
@@ -17,9 +17,9 @@ Karlskrona, Sweden
 
 ## About Me
 
-Full-stack Software Engineer with 5+ years shipping production systems across the complete stack React/TypeScript frontends, Python/FastAPI backends, Docker containerisation, GitHub Actions CI/CD, and LLM orchestration pipelines. Engineered a fault-isolated asyncio backend orchestrating 4 concurrent Claude + GPT-4 analysis pipelines with 80% Pytest-gated test coverage and mypy strict enforced on every pull request. Raised a live booking platform from Lighthouse 62 to 91 (+47%) and cut API calls by 60%.
-
-M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis on **AI-assisted Detection of Requirements Smells**.
+Full-stack Software Engineer with 5+ years shipping production systems across the complete stack, including React/TypeScript frontends, Python/FastAPI backends, Docker containerisation, GitHub Actions CI/CD, and LLM orchestration pipelines. Engineered a fault-isolated asyncio backend orchestrating 4 concurrent Claude and GPT-4 analysis pipelines with 80% Pytest-gated test coverage and mypy strict mode enforced on every pull request. Raised a live booking platform from Lighthouse 62 to 91 (+47%) and reduced API calls by 60%.
+ 
+ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis on **AI-assisted Detection of Requirements Smells**.
 
 ---
 
@@ -100,11 +100,11 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 ## Experience
 
 **Software Engineer** · FFSD, Lagos, Nigeria · *Dec 2023 – Aug 2024*
-- Architected and delivered FFSD Travels end-to-end: component architecture, Redux state design, typed REST API service layer integrating 5+ third-party APIs (flights, hotels, payments), Docker containerisation, and Netlify CI/CD serving real users in production.
-- Raised Lighthouse performance score from **62 to 91 (+47%)** via lazy loading, route-based code splitting, API response caching, and memoisation across a microservices-integrated React/TypeScript frontend.
+- Architected and delivered FFSD Travels end-to-end, covering component architecture, Redux state design, a typed REST API service layer integrating 5+ third-party APIs (flights, hotels, payments), Docker containerisation, and Netlify CI/CD serving real users in production.
+- Raised the Lighthouse performance score from **62 to 91 (+47%)** via lazy loading, route-based code splitting, API response caching, and memoisation across a microservices-integrated React/TypeScript frontend.
 - Reduced production API calls by **60%** by introducing debounced search and request-level caching in Redux, measured via network profiling.
 - Grew frontend test coverage from **0% to 70%** by authoring Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
-- Eliminated UI regression bugs zero design-regression QA reports in the final two sprints by engineering a reusable library of 30+ Shadcn UI / Tailwind CSS components as the single source of truth across the codebase.
+- Eliminated UI regression bugs (zero design-regression QA reports in the final two sprints) by engineering a reusable library of 30+ Shadcn UI / Tailwind CSS components as the single source of truth across the codebase.
 - Standardised deployments with Docker and Netlify CI/CD, eliminating environment drift and ensuring reproducible builds across dev, staging, and production.
 - Ensured GDPR compliance and WCAG accessibility across all customer-facing booking and checkout flows through structured code review and QA collaboration.
 - Coached and mentored junior developers via code review and pair programming, enforcing consistent component architecture, testing discipline, and accessibility best practices.
@@ -113,7 +113,6 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 - Eliminated stale-state and race-condition defects by implementing Redux state management with structured action patterns and typed REST API integrations.
 - Reduced reported UI layout bugs by **25%** (by QA ticket volume) via consistent responsive design across desktop and mobile breakpoints.
 - Cut code duplication across 4+ product areas by building a shared library of 20+ modular React components, adopted team-wide as the standard design pattern.
-
 
 **Frontend Developer (Intern)** · PricewaterhouseCoopers (PwC), Lagos, Nigeria · *Apr 2021 – Sep 2021*
 - Delivered enterprise Angular UI components meeting PwC's GDPR compliance and WCAG accessibility standards, achieving QA sign-off within sprint timelines through cross-functional collaboration with product, QA, and backend engineering teams.
@@ -126,9 +125,9 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 ### [✈️ FFSD Travels](https://ffsdtravels.com/) — Travel Booking Platform
 > Production travel booking platform serving real end users, built with React/TypeScript using a micro frontend-inspired feature-based architecture, Redux slice state management, and a REST API service layer integrating 5+ third-party APIs (flights, hotels, payments). Raised Lighthouse performance from 62 to 91 (+47%) and reduced API calls by 60%.
 
-- Increased Lighthouse performance score by **47% (62 → 91)** via lazy loading, route-based code splitting, debounced queries, API response caching, and memoisation.
+- Increased the Lighthouse performance score by **47% (62 to 91)** via lazy loading, route-based code splitting, debounced queries, API response caching, and memoisation.
 - Grew frontend test coverage from **0% to 70%** with Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
-- Engineered a reusable component library of **30+ Shadcn UI / Tailwind CSS components** adopted as the single source of truth, eliminating UI regression bugs (zero design-regression QA reports in the final two sprints).
+- Engineered a reusable component library of **30+ Shadcn UI / Tailwind CSS components** adopted as the single source of truth, producing zero design-regression QA reports in the final two sprints.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -141,12 +140,12 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 
 ---
 
-### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
-> M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services a React/TypeScript SPA frontend and a Python/FastAPI backend with 4 concurrent async LLM analysis pipelines (Claude API + GPT-4), fault-isolated execution, and fully client-side PDF report generation.
+### [🤖 ReqSmell AI Requirements Analysis Tool](https://reqsmell.netlify.app)
+> M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services, a React/TypeScript SPA frontend and a Python/FastAPI backend, with 4 concurrent async LLM analysis pipelines (Claude API and GPT-4), fault-isolated execution, and fully client-side PDF report generation.
 
-- Engineered 4 concurrent async LLM analysis pipelines (Claude API + GPT-4) with `asyncio` orchestration achieving fault-isolated execution one pipeline failure never affects the others (zero cross-pipeline contamination during thesis evaluation).
+- Engineered 4 concurrent async LLM analysis pipelines (Claude API and GPT-4) with `asyncio` orchestration, achieving fault-isolated execution where one pipeline failure never affects the others (zero cross-pipeline contamination during thesis evaluation).
 - Enforced 80% backend test coverage and zero type errors on every pull request via GitHub Actions CI gates requiring Pytest, mypy strict mode, Ruff linting, and TypeScript strict mode (`zero any`).
-- Delivered fully client-side PDF report generation (multi-page comparison reports with statistics and charts) without any server-side rendering using jsPDF and html2canvas.
+- Delivered fully client-side PDF report generation (multi-page comparison reports with statistics and charts) without any server-side rendering, using jsPDF and html2canvas.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -162,13 +161,13 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 
 ---
 
-### [✈️ MikunAir — Full Stack Flight Booking Application](https://mikunair.netlify.app)
-> Production-grade full-stack flight booking system (2025 – 2026): two independently versioned and containerised services a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API each with its own GitHub Actions CI pipeline enforcing TypeScript strict mode and ESLint zero-warning gates on every push.
+### [✈️ MikunAir Full Stack Flight Booking Application](https://mikunair.netlify.app)
+> Production-grade full-stack flight booking system (2025 – 2026): two independently versioned and containerised services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API, each with its own GitHub Actions CI pipeline enforcing TypeScript strict mode and ESLint zero-warning gates on every push.
 
-- Implemented a dual-protocol API: GraphQL (Apollo Server, depth-limited to prevent query abuse) for flight search with rich Airport object types, and REST (Express + Zod input validation) for bookings, authentication, and profiles all responses projected through explicit DTOs with stack traces never serialised to API output.
+- Implemented a dual-protocol API: GraphQL (Apollo Server, depth-limited to prevent query abuse) for flight search with rich Airport object types, and REST (Express and Zod input validation) for bookings, authentication, and profiles, with all responses projected through explicit DTOs and stack traces never serialised to API output.
 - Engineered overbooking prevention using PostgreSQL `SELECT FOR UPDATE` inside an explicit Drizzle ORM transaction to serialise concurrent seat-decrement operations; a dedicated integration test fires two simultaneous requests against the last available seat and asserts exactly one succeeds.
 - Designed a hub-and-spoke connecting-flight engine pairing direct and connecting routes in a single query round-trip, enforcing 45-minute/4-hour layover windows surfaced as four distinct paginated result sections with mutual-exclusion selection state.
-- Applied GDPR-compliant identity management: consent captured at registration; erasure anonymises all PII fields in-place (preserving 7-year booking retention); integration test IT-011 asserts zero PII fields remain post-erasure; a recursive Winston log sanitiser redacts 12 PII field names before any structured log output.
+- Applied GDPR-compliant identity management: consent is captured at registration; erasure anonymises all PII fields in-place (preserving 7-year booking retention); integration test IT-011 asserts zero PII fields remain post-erasure; a recursive Winston log sanitiser redacts 12 PII field names before any structured log output.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -189,26 +188,32 @@ M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis
 
 ---
 
-### [🛒 MikunStore — E-Commerce Platform](https://productseacrh.netlify.app/)
-> Full-featured e-commerce app built with React 18 and Vite. Browse 100 products across 9 categories with search, filtering, sorting, and pagination. Features cart management, favourites, side-by-side product comparison, multi-currency pricing, 5-language i18n, dark/light mode, and a jsPDF-generated receipt on checkout.
+### [🛒 MikunStore E-Commerce Platform](https://productseacrh.netlify.app/)
+> Production-ready SPA (2025) built from the ground up with Vue 3, Pinia, and Vue Router 4, migrated from a React prototype. Supports multi-currency (USD, GBP, EUR, NGN) and multi-language (EN, FR, NL, DE, SV) architecture serving a live landing page and full product catalogue.
 
-- Delivered a complete e-commerce experience multi-category browsing, cart, checkout, and client-side PDF receipt generation validated with Cypress end-to-end tests across the full purchase funnel.
+- Engineered a client-side PDF receipt generator using jsPDF with a custom vector logo stamp, zebra-striped item tables, discount badges, and per-currency formatting, requiring zero server-side rendering.
+- Enforced zero-warning ESLint on every commit via Husky pre-commit hooks with lint-staged, and gated all merges behind a three-stage GitHub Actions CI pipeline covering lint, production build, and Cypress E2E tests against a Vite preview server.
+- Containerised the application with a hardened multi-stage Dockerfile using a non-root user, node:20-alpine base, explicit file copy, and a .dockerignore excluding secrets and build artefacts.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
+![Vue Router](https://img.shields.io/badge/Vue_Router_4-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=flat&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=flat&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://productseacrh.netlify.app/)
 
 ---
 
-### [🎬 CineVault — Movie Discovery Platform](https://mikun-films.netlify.app/)
+### [🎬 CineVault Movie Discovery Platform](https://mikun-films.netlify.app/)
 > Type-safe movie discovery platform powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV).
 
-- Built a type-safe film discovery platform integrating the TMDB REST API with genre filtering and per-request language headers; TypeScript strict mode enforced across all API response shapes and Redux slices.
+- Built a type-safe film discovery platform integrating the TMDB REST API with genre filtering and per-request language headers, with TypeScript strict mode enforced across all API response shapes and Redux slices.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
