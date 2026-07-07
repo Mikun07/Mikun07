@@ -4,7 +4,7 @@
 
 **Full-Stack Software Engineer · TypeScript · Python · React · FastAPI · Docker · AI/LLM Orchestration · GitHub Actions CI/CD · MSc Software Engineering**
 
-Karlskrona, Sweden
+Nässjö, Sweden
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://festus-olaleye-ayomikun.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249)
@@ -17,9 +17,9 @@ Karlskrona, Sweden
 
 ## About Me
 
-Full-stack Software Engineer with 5+ years shipping production systems across the complete stack, including React/TypeScript frontends, Python/FastAPI backends, Docker containerisation, GitHub Actions CI/CD, and LLM orchestration pipelines. Engineered a fault-isolated asyncio backend orchestrating 4 concurrent Claude and GPT-4 analysis pipelines with 80% Pytest-gated test coverage and mypy strict mode enforced on every pull request. Raised a live booking platform from Lighthouse 62 to 91 (+47%) and reduced API calls by 60%.
- 
- M.Sc. in Software Engineering at Blekinge Institute of Technology, with a thesis on **AI-assisted Detection of Requirements Smells**.
+Full-stack Software Engineer (React/TypeScript, Python/FastAPI, Node.js) who raised a production Lighthouse score by 47%, cut API call volume by 60%, and lifted test coverage from 0% to 70% on a live booking platform. Currently completing an MSc in Software Engineering at Blekinge Institute of Technology (defence September 2026) while building fault-isolated LLM pipelines (Claude, GPT-4) with 80% CI-gated test coverage. 4+ years building software, 2+ in professional Agile teams.
+
+Thesis: **AI-assisted Detection of Requirements Smells**.
 
 ---
 
@@ -53,6 +53,7 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### Testing & QA
@@ -62,20 +63,22 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-### DevOps & Platforms
+### DevOps & Observability
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Structured Logging](https://img.shields.io/badge/Structured_Logging-4A90D9?style=flat&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### Software Engineering
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4A90D9?style=flat&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance_Optimisation-F7931E?style=flat&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-4A90D9?style=flat&logoColor=white)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-CC2927?style=flat&logoColor=white)
 ![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0052CC?style=flat&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### AI & LLM
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -101,30 +104,36 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ## Experience
 
-**Software Engineer** · FFSD, Lagos, Nigeria · *Dec 2023 – Aug 2024*
-- Architected and delivered FFSD Travels end-to-end, covering component architecture, Redux state design, a typed REST API service layer integrating 5+ third-party APIs (flights, hotels, payments), Docker containerisation, and Netlify CI/CD serving real users in production.
-- Raised the Lighthouse performance score from **62 to 91 (+47%)** via lazy loading, route-based code splitting, API response caching, and memoisation across a microservices-integrated React/TypeScript frontend.
-- Reduced production API calls by **60%** by introducing debounced search and request-level caching in Redux, measured via network profiling.
-- Grew frontend test coverage from **0% to 70%** by authoring Jest unit tests and Cypress end-to-end tests across all critical booking, search, and checkout flows.
-- Eliminated UI regression bugs (zero design-regression QA reports in the final two sprints) by engineering a reusable library of 30+ Shadcn UI / Tailwind CSS components as the single source of truth across the codebase.
-- Standardised deployments with Docker and Netlify CI/CD, eliminating environment drift and ensuring reproducible builds across dev, staging, and production.
-- Ensured GDPR compliance and WCAG accessibility across all customer-facing booking and checkout flows through structured code review and QA collaboration.
-- Coached and mentored junior developers via code review and pair programming, enforcing consistent component architecture, testing discipline, and accessibility best practices.
+**Software Engineer, MSc Thesis Research (ReqSmell)** · Blekinge Institute of Technology · *Jan 2025 – Present*
+- Engineered 4 concurrent async LLM pipelines (Claude API, GPT-4) with zero cross-pipeline contamination in thesis evaluation, through fault-isolated asyncio orchestration in FastAPI.
+- Gated every pull request behind 80% Pytest unit test coverage, mypy strict mode, and Ruff in GitHub Actions CI/CD; zero type errors reach main.
+- Shipped to production as two independently deployed services: a React 18/TypeScript SPA (strict mode) and a FastAPI backend.
 
-**Software Engineer (Frontend)** · Pedistack · Fintech · Remote · *Jan 2023 – Nov 2023*
-- Eliminated stale-state and race-condition defects by implementing Redux state management with structured action patterns and typed REST API integrations.
-- Reduced reported UI layout bugs by **25%** (by QA ticket volume) via consistent responsive design across desktop and mobile breakpoints.
-- Cut code duplication across 4+ product areas by building a shared library of 20+ modular React components, adopted team-wide as the standard design pattern.
+**Software Engineer** · FFSD, Lagos, Nigeria · *Dec 2023 – Aug 2024 (left to pursue MSc)*
+- Raised the Lighthouse performance score from **62 to 91 (a 47% gain)** via lazy loading, route-based code splitting, and API response caching in a React/TypeScript frontend, delivered in two-week Agile sprints.
+- Reduced production API call volume by **60%** (verified by network profiling) with debounced search and request-level caching in the Redux state layer.
+- Lifted frontend test coverage from **0% to 70%** (Jest and Cypress reports) by authoring unit tests and end-to-end tests across all booking, search, and checkout flows.
+- Decoupled the UI from 5+ third-party REST integrations (flights, hotels, payments) via a service layer; swapping a backend provider required zero UI changes.
+- Cut design-regression QA tickets to zero across the final two Scrum sprints with a reusable 30+ component Shadcn UI and Tailwind library (GDPR and WCAG compliant); mentored junior developers through code review.
 
-**Frontend Developer (Intern)** · PricewaterhouseCoopers (PwC), Lagos, Nigeria · *Apr 2021 – Sep 2021*
-- Delivered enterprise Angular UI components meeting PwC's GDPR compliance and WCAG accessibility standards, achieving QA sign-off within sprint timelines through cross-functional collaboration with product, QA, and backend engineering teams.
-- Contributed to UI testing cycles and technical documentation, building foundational knowledge of large-scale enterprise-grade software delivery within a structured SDLC.
+**Software Engineer (Fixed-Term Contract)** · Pedistack · Fintech · Remote · *Jan 2023 – Nov 2023 (contract concluded on schedule)*
+- Eliminated stale-state and race-condition defects (tracked via defect reports) with structured Redux action patterns and typed REST API integrations.
+- Reduced reported UI layout bugs by **25%** (by QA ticket volume) by enforcing responsive design across desktop and mobile breakpoints.
+- Cut code duplication across 4+ product areas by building a shared library of 20+ modular React components, adopted team-wide as the single source of UI logic.
+
+**Independent Software Engineer** · Self-Directed Engineering Projects · Remote · *Oct 2021 – Dec 2022*
+- Built MikunStore, an e-commerce platform with full Cypress end-to-end coverage of the purchase funnel: multi-category browsing, cart, checkout, and client-side PDF receipts (React 18, Vite).
+- Developed CineVault, a movie discovery platform with zero TypeScript strict-mode violations across all TMDB API response shapes (Redux Toolkit, genre filtering, per-request language headers).
+
+**Software Engineer Intern** · PricewaterhouseCoopers (PwC), Lagos, Nigeria · *Apr 2021 – Sep 2021*
+- Delivered enterprise Angular UI components to PwC compliance and accessibility standards, with QA sign-off inside sprint timelines, across product, QA, and backend teams.
+- Contributed to UI testing cycles and technical documentation, building foundational knowledge of enterprise-grade software delivery within a structured SDLC.
 
 ---
 
 ## Featured Projects
 
-### [🤖 ReqSmell AI Requirements Analysis Tool](https://reqsmell.netlify.app)
+### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
 > M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services, a React/TypeScript SPA frontend and a Python/FastAPI backend, with 4 concurrent async LLM analysis pipelines (Claude API and GPT-4), fault-isolated execution, and fully client-side PDF report generation.
 
 - Engineered 4 concurrent async LLM analysis pipelines (Claude API and GPT-4) with `asyncio` orchestration, achieving fault-isolated execution where one pipeline failure never affects the others (zero cross-pipeline contamination during thesis evaluation).
@@ -145,11 +154,11 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ---
 
-### [✈️ MikunAir Full Stack Flight Booking Application](https://mikunair.netlify.app)
+### [✈️ MikunAir — Full Stack Flight Booking Application](https://mikunair.netlify.app)
 > Production-grade full-stack flight booking system (2025 – 2026): two independently versioned and containerised services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API, each with its own GitHub Actions CI pipeline enforcing TypeScript strict mode and ESLint zero-warning gates on every push.
 
-- Implemented a dual-protocol API: GraphQL (Apollo Server, depth-limited to prevent query abuse) for flight search with rich Airport object types, and REST (Express and Zod input validation) for bookings, authentication, and profiles, with all responses projected through explicit DTOs and stack traces never serialised to API output.
-- Engineered overbooking prevention using PostgreSQL `SELECT FOR UPDATE` inside an explicit Drizzle ORM transaction to serialise concurrent seat-decrement operations; a dedicated integration test fires two simultaneous requests against the last available seat and asserts exactly one succeeds.
+- Prevented overbooking under concurrent load (integration test: two simultaneous requests on the last seat, exactly one success) by serialising seat decrements with PostgreSQL `SELECT FOR UPDATE` inside a Drizzle ORM transaction.
+- Built a dual-protocol API: GraphQL (Apollo Server, depth limit 5) for flight search with rich Airport object types, and REST with Zod validation for all mutations, with every response projected through explicit DTOs.
 - Designed a hub-and-spoke connecting-flight engine pairing direct and connecting routes in a single query round-trip, enforcing 45-minute/4-hour layover windows surfaced as four distinct paginated result sections with mutual-exclusion selection state.
 - Applied GDPR-compliant identity management: consent is captured at registration; erasure anonymises all PII fields in-place (preserving 7-year booking retention); integration test IT-011 asserts zero PII fields remain post-erasure; a recursive Winston log sanitiser redacts 12 PII field names before any structured log output.
 
@@ -172,7 +181,7 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ---
 
-### [🛒 MikunStore E-Commerce Platform](https://productseacrh.netlify.app/)
+### [🛒 MikunStore — E-Commerce Platform](https://productseacrh.netlify.app/)
 > Production-ready SPA (2025) built from the ground up with Vue 3, Pinia, and Vue Router 4, migrated from a React prototype. Supports multi-currency (USD, GBP, EUR, NGN) and multi-language (EN, FR, NL, DE, SV) architecture serving a live landing page and full product catalogue.
 
 - Engineered a client-side PDF receipt generator using jsPDF with a custom vector logo stamp, zebra-striped item tables, discount badges, and per-currency formatting, requiring zero server-side rendering.
@@ -194,7 +203,7 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ---
 
-### [🎬 CineVault Movie Discovery Platform](https://mikun-films.netlify.app/)
+### [🎬 CineVault — Movie Discovery Platform](https://mikun-films.netlify.app/)
 > Type-safe movie discovery platform powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV).
 
 - Built a type-safe film discovery platform integrating the TMDB REST API with genre filtering and per-request language headers, with TypeScript strict mode enforced across all API response shapes and Redux slices.
@@ -212,9 +221,9 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 
 ## Education
 
-🎓 **M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Jun 2026)*
-> Thesis: *AI-assisted Detection of Requirements Smells*
-> Coursework: Software Architecture · Applied AI · Software Metrics · Software Quality · Software Testing
+🎓 **M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Expected Sep 2026)*
+> Thesis: *AI-assisted Detection of Requirements Smells* (defence September 2026)
+> Coursework: Software Architecture · Applied AI · Software Metrics · Software Quality
 
 🎓 **B.Tech. Computer Science** — Bell University of Technology, Nigeria *(Sep 2018 – Aug 2022)*
 > Second Class Honours · CGPA: 3.43/5.0
@@ -224,8 +233,6 @@ Full-stack Software Engineer with 5+ years shipping production systems across th
 ## Certifications
 
 ![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java_Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_Office_Specialist-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server_Administrator-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
