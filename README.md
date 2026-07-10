@@ -1,112 +1,137 @@
 <div align="center">
 
-# Hi, I'm Ayomikun (Oluwasemilore) Festus-Olaleye 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ayomikun+Festus-Olaleye;Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Node.js;MSc+Software+Engineering+%40+BTH" alt="Typing SVG" />
 
-**Full-Stack Software Engineer · TypeScript · Python · React · FastAPI · Docker · AI/LLM Orchestration · GitHub Actions CI/CD · MSc Software Engineering**
+<p>
+  <img src="https://img.shields.io/badge/📍_Nässjö,_Sweden-000000?style=for-the-badge&logoColor=white" alt="Location" />
+</p>
 
-Nässjö, Sweden
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://festus-olaleye-ayomikun.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayomikunolaleye@gmail.com)
+<p>
+  <a href="https://festus-olaleye-ayomikun.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayomikunolaleye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
----
+<br />
 
-## About Me
+## 👤 About Me
 
 Full-stack Software Engineer (React/TypeScript, Python/FastAPI, Node.js) who raised a production Lighthouse score by 47%, cut API call volume by 60%, and lifted test coverage from 0% to 70% on a live booking platform. Currently completing an MSc in Software Engineering at Blekinge Institute of Technology (defence September 2026) while building fault-isolated LLM pipelines (Claude, GPT-4) with 80% CI-gated test coverage. 4+ years building software, 2+ in professional Agile teams.
 
 Thesis: **AI-assisted Detection of Requirements Smells**.
 
+<br />
+
+## 🧩 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+<br />
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & APIs**
+<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+**Databases**
+<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Testing & QA**
+<br />
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**DevOps & Observability**
+<br />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Structured Logging](https://img.shields.io/badge/Structured_Logging-4A90D9?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Software Engineering**
+<br />
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-4A90D9?style=flat-square&logoColor=white)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-CC2927?style=flat-square&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0052CC?style=flat-square&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**AI & LLM**
+<br />
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
 ---
 
-## Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat&logo=apollographql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-### Testing & QA
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-### DevOps & Observability
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Structured Logging](https://img.shields.io/badge/Structured_Logging-4A90D9?style=flat&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### Software Engineering
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-4A90D9?style=flat&logoColor=white)
-![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-CC2927?style=flat&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0052CC?style=flat&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat&logo=jira&logoColor=white)
-
-### AI & LLM
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat&logoColor=white)
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Mikun07)
+<img src="https://github-readme-stats.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mikun07)
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mikun07&theme=tokyonight&hide_border=true)](https://github.com/Mikun07)
+<img src="https://streak-stats.demolab.com?user=Mikun07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
+<br />
+
 ---
 
-## Experience
+## 💼 Experience
 
 **Software Engineer, MSc Thesis Research (ReqSmell)** · Blekinge Institute of Technology · *Jan 2025 – Present*
 - Engineered 4 concurrent async LLM pipelines (Claude API, GPT-4) with zero cross-pipeline contamination in thesis evaluation, through fault-isolated asyncio orchestration in FastAPI.
@@ -135,7 +160,7 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
 > M.Sc. thesis project (2025 – 2026) evaluating whether large language models can detect ambiguity and inconsistency in software requirements. Built as two independently versioned services, a React/TypeScript SPA frontend and a Python/FastAPI backend, running the same requirement set through Claude and GPT-4 under identical prompts and reporting where the two models agree or diverge.
@@ -247,26 +272,32 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 ---
 
-## Education
+## 🎓 Education
 
-🎓 **M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Expected Sep 2026)*
+**M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Expected Sep 2026)*
 > Thesis: *AI-assisted Detection of Requirements Smells* (defence September 2026)
 > Coursework: Software Architecture · Applied AI · Software Metrics · Software Quality
 
-🎓 **B.Tech. Computer Science** — Bell University of Technology, Nigeria *(Sep 2018 – Aug 2022)*
+**B.Tech. Computer Science** — Bell University of Technology, Nigeria *(Sep 2018 – Aug 2022)*
 > Second Class Honours · CGPA: 3.43/5.0
+
+<br />
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 ![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server_Administrator-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+<br />
 
 ---
 
 <div align="center">
 
-*Open to collaborations on full-stack systems and AI-assisted engineering projects*
+### 🤝 Open to collaborations on full-stack systems and AI-assisted engineering projects
+
+<img src="https://komarev.com/ghpvc/?username=Mikun07&style=flat-square&color=2CA5E0" alt="Profile views" />
 
 </div>
