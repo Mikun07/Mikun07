@@ -146,8 +146,8 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2CA5E0&icon_color=2CA5E0" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2CA5E0" width="35%" alt="Top Languages" />
+<img src="https://github-readme-stats-psi-blush.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2CA5E0&icon_color=2CA5E0" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-psi-blush.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2CA5E0" width="35%" alt="Top Languages" />
 
 <br />
 
