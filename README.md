@@ -134,11 +134,12 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 ## Featured Projects
 
 ### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
-> M.Sc. thesis project (2025 – 2026): a production full-stack AI research tool for detecting **ambiguity** and **inconsistency** in natural-language software requirements. Built as two independently versioned and deployed services, a React/TypeScript SPA frontend and a Python/FastAPI backend, with 4 concurrent async LLM analysis pipelines (Claude API and GPT-4), fault-isolated execution, and fully client-side PDF report generation.
+> M.Sc. thesis project (2025 – 2026) evaluating whether large language models can detect ambiguity and inconsistency in software requirements. Built as two independently versioned services, a React/TypeScript SPA frontend and a Python/FastAPI backend, running the same requirement set through Claude and GPT-4 under identical prompts and reporting where the two models agree or diverge.
 
-- Engineered 4 concurrent async LLM analysis pipelines (Claude API and GPT-4) with `asyncio` orchestration, achieving fault-isolated execution where one pipeline failure never affects the others (zero cross-pipeline contamination during thesis evaluation).
-- Enforced 80% backend test coverage and zero type errors on every pull request via GitHub Actions CI gates requiring Pytest, mypy strict mode, Ruff linting, and TypeScript strict mode (`zero any`).
-- Delivered fully client-side PDF report generation (multi-page comparison reports with statistics and charts) without any server-side rendering, using jsPDF and html2canvas.
+- Ran four independent async pipelines per analysis (ambiguity and inconsistency, across both providers), isolating failures so one pipeline erroring never blocks the others from returning results.
+- Built a comparison engine that aggregates per-model results into per-domain and per-type smell rates, then computes full agreement, Claude-only, and GPT-4-only detection counts across the same requirement set.
+- Added a mock LLM mode (`USE_REAL_LLM=false`) returning deterministic responses with no network calls, letting the full pipeline and 22-test backend suite run without provider cost or API keys.
+- Gated every pull request on Ruff, mypy strict mode, and pylint at a minimum score of 10.0 for the backend, and ESLint plus a TypeScript check for the frontend, via separate GitHub Actions workflows.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -155,12 +156,13 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 ---
 
 ### [✈️ MikunAir — Full Stack Flight Booking Application](https://mikunair.netlify.app)
-> Production-grade full-stack flight booking system (2025 – 2026): two independently versioned and containerised services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API, each with its own GitHub Actions CI pipeline enforcing TypeScript strict mode and ESLint zero-warning gates on every push.
+> Full-stack flight booking platform (2025 – 2026) covering the complete passenger journey: search, seat and cabin selection, booking, history, and cancellation, including connecting itineraries and return trips. Built as two independently versioned services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API on PostgreSQL, each with its own GitHub Actions CI pipeline and Docker image.
 
-- Prevented overbooking under concurrent load (integration test: two simultaneous requests on the last seat, exactly one success) by serialising seat decrements with PostgreSQL `SELECT FOR UPDATE` inside a Drizzle ORM transaction.
-- Built a dual-protocol API: GraphQL (Apollo Server, depth limit 5) for flight search with rich Airport object types, and REST with Zod validation for all mutations, with every response projected through explicit DTOs.
-- Designed a hub-and-spoke connecting-flight engine pairing direct and connecting routes in a single query round-trip, enforcing 45-minute/4-hour layover windows surfaced as four distinct paginated result sections with mutual-exclusion selection state.
-- Applied GDPR-compliant identity management: consent is captured at registration; erasure anonymises all PII fields in-place (preserving 7-year booking retention); integration test IT-011 asserts zero PII fields remain post-erasure; a recursive Winston log sanitiser redacts 12 PII field names before any structured log output.
+- Prevented double-selling the last seat on a flight under concurrent requests by locking the flight row with a PostgreSQL `SELECT FOR UPDATE` inside a Drizzle ORM transaction; the losing request receives a typed `409 NO_SEATS_AVAILABLE` error.
+- Paired direct flights into connecting itineraries by matching a leg's destination to the next leg's origin within a 45-minute to 6-hour layover window, exposed through a depth-limited GraphQL search endpoint alongside a REST API for auth, bookings, and admin operations.
+- Enforced GDPR erasure end to end: on request, the account email is replaced with a hashed sentinel, the password hash is cleared, and every linked passenger and profile record is flagged anonymised with its PII fields overwritten.
+- Applied a PII sanitiser to every structured log call, redacting fields such as email, full name, date of birth, and document number before they reach Winston, and recorded every booking action to an append-only audit log keyed by request correlation ID.
+- Verified the full stack with 47 backend and 144 frontend unit and component tests, plus a five-spec Playwright E2E suite covering guest booking, authenticated return booking, auth flows, profile management, and cancellation, run in CI against a live backend, frontend, and PostgreSQL instance.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -178,6 +180,28 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://mikunair.netlify.app)
+
+---
+
+### 🚨 IncidentTrack — Incident Management Platform
+> Full-stack incident management system for engineering teams, covering the response workflow from an incident being opened through investigation, mitigation, resolution, and postmortem review. Built as two independently versioned services, a React 19/TypeScript SPA and a Node.js/Express/TypeScript API on PostgreSQL via Prisma.
+
+- Enforced a strict incident state machine on the server (`OPEN → INVESTIGATING → MITIGATED → RESOLVED → REVIEWED`, with a direct `OPEN → MITIGATED` and `INVESTIGATING → RESOLVED` path); any transition outside this graph is rejected with a `409`, so an invalid state cannot be reached even if the frontend has a bug.
+- Tied incident severity to automatic service status changes: a SEV1 incident forces its service to `OUTAGE` and a SEV2 forces `DEGRADED`, while SEV3 and SEV4 leave service status untouched.
+- Gated postmortem submission on incident status, rejecting any postmortem for an incident that has not reached `RESOLVED` or `REVIEWED`, and required five fields (root cause, impact, detection, resolution, lessons learned) before a draft could be published.
+- Implemented role-based access for three roles (`VIEWER`, `RESPONDER`, `ADMIN`) enforced server-side, including a rule that rejects any change that would leave the platform with zero admins.
+- Tested the backend with 46 Vitest and Supertest tests run against a real PostgreSQL instance rather than mocks, reaching 86% statement coverage, and the frontend with 52 React Testing Library tests across the auth, incident, service, team, and audit views.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
