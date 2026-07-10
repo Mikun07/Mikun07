@@ -1,16 +1,46 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ayomikun+Festus-Olaleye;Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Node.js;MSc+Software+Engineering+%40+BTH" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2CA5E0&height=200&section=header&text=Ayomikun%20Festus-Olaleye&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20MSc%20Software%20Engineering&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
-<p>
-  <img src="https://img.shields.io/badge/📍_Nässjö,_Sweden-000000?style=for-the-badge&logoColor=white" alt="Location" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2CA5E0&center=true&vCenter=true&width=600&lines=React+%2F+TypeScript+%2F+Node.js;Python+%2F+FastAPI+%2F+PostgreSQL;Building+AI-assisted+developer+tools" alt="Typing SVG" />
 
-<p>
-  <a href="https://festus-olaleye-ayomikun.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayomikunolaleye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br /><br />
+
+<img src="https://img.shields.io/badge/📍_Nässjö,_Sweden-0D1117?style=for-the-badge&logoColor=2CA5E0" alt="Location" />
+
+<br /><br />
+
+<a href="https://festus-olaleye-ayomikun.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=2CA5E0" /></a>
+<a href="https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2CA5E0" /></a>
+<a href="mailto:ayomikunolaleye@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2CA5E0" /></a>
+
+</div>
+
+<br />
+
+<!-- IMPACT METRICS -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/47%25-2CA5E0?style=for-the-badge&labelColor=0D1117" /><br />
+<sub><b>Lighthouse score gain</b><br />62 → 91 on a production frontend</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/60%25-2CA5E0?style=for-the-badge&labelColor=0D1117" /><br />
+<sub><b>API call reduction</b><br />via caching and debounced search</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/0→70%25-2CA5E0?style=for-the-badge&labelColor=0D1117" /><br />
+<sub><b>Test coverage lifted</b><br />on a live booking platform</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/4%2B_years-2CA5E0?style=for-the-badge&labelColor=0D1117" /><br />
+<sub><b>Building software</b><br />2+ in professional Agile teams</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -18,13 +48,13 @@
 
 ## 👤 About Me
 
-Full-stack Software Engineer (React/TypeScript, Python/FastAPI, Node.js) who raised a production Lighthouse score by 47%, cut API call volume by 60%, and lifted test coverage from 0% to 70% on a live booking platform. Currently completing an MSc in Software Engineering at Blekinge Institute of Technology (defence September 2026) while building fault-isolated LLM pipelines (Claude, GPT-4) with 80% CI-gated test coverage. 4+ years building software, 2+ in professional Agile teams.
+Full-stack Software Engineer (React/TypeScript, Python/FastAPI, Node.js) who raised a production Lighthouse score by 47%, cut API call volume by 60%, and lifted test coverage from 0% to 70% on a live booking platform. Currently completing an MSc in Software Engineering at Blekinge Institute of Technology (defence September 2026) while building fault-isolated LLM pipelines (Claude, GPT-4) with 80% CI-gated test coverage.
 
 Thesis: **AI-assisted Detection of Requirements Smells**.
 
 <br />
 
-## 🧩 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=Tech%20Stack&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="Tech Stack" />
 
 <table>
 <tr>
@@ -32,79 +62,79 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 **Languages**
 <br />
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2CA5E0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=2CA5E0)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2CA5E0)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=2CA5E0)
 
 **Frontend**
 <br />
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=2CA5E0)
+![Vue 3](https://img.shields.io/badge/Vue_3-0D1117?style=flat-square&logo=vuedotjs&logoColor=2CA5E0)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=2CA5E0)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=2CA5E0)
+![Pinia](https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=2CA5E0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=2CA5E0)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=2CA5E0)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=2CA5E0)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=2CA5E0)
 
 **Backend & APIs**
 <br />
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2CA5E0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=2CA5E0)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=2CA5E0)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=2CA5E0)
+![Apollo](https://img.shields.io/badge/Apollo_Client-0D1117?style=flat-square&logo=apollographql&logoColor=2CA5E0)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=postman&logoColor=2CA5E0)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-0D1117?style=flat-square&logo=pydantic&logoColor=2CA5E0)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0D1117?style=flat-square&logoColor=2CA5E0)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2CA5E0)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=2CA5E0)
 
 **Databases**
 <br />
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2CA5E0)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=2CA5E0)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=2CA5E0)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=2CA5E0)
 
 </td>
 <td valign="top" width="50%">
 
 **Testing & QA**
 <br />
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest&logoColor=2CA5E0)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=2CA5E0)
+![Cypress](https://img.shields.io/badge/Cypress-0D1117?style=flat-square&logo=cypress&logoColor=2CA5E0)
+![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest&logoColor=2CA5E0)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2CA5E0)
 
 **DevOps & Observability**
 <br />
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Structured Logging](https://img.shields.io/badge/Structured_Logging-4A90D9?style=flat-square&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=2CA5E0)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2CA5E0)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logo=github-actions&logoColor=2CA5E0)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=2CA5E0)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=2CA5E0)
+![Structured Logging](https://img.shields.io/badge/Structured_Logging-0D1117?style=flat-square&logoColor=2CA5E0)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=2CA5E0)
 
 **Software Engineering**
 <br />
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-4A90D9?style=flat-square&logoColor=white)
-![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-CC2927?style=flat-square&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0052CC?style=flat-square&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D1117?style=flat-square&logoColor=2CA5E0)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-0D1117?style=flat-square&logoColor=2CA5E0)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-0D1117?style=flat-square&logoColor=2CA5E0)
+![GDPR](https://img.shields.io/badge/GDPR_%26_WCAG-0D1117?style=flat-square&logoColor=2CA5E0)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0D1117?style=flat-square&logo=jira&logoColor=2CA5E0)
 
 **AI & LLM**
 <br />
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=2CA5E0)
+![OpenAI](https://img.shields.io/badge/GPT--4-0D1117?style=flat-square&logo=openai&logoColor=2CA5E0)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-0D1117?style=flat-square&logoColor=2CA5E0)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logoColor=2CA5E0)
 
 </td>
 </tr>
@@ -112,26 +142,22 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 <br />
 
----
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=GitHub%20Stats&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mikun07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2CA5E0&icon_color=2CA5E0" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2CA5E0" width="35%" alt="Top Languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Mikun07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Mikun07&theme=tokyonight&hide_border=true&background=0D1117&ring=2CA5E0&fire=2CA5E0" width="70%" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
----
-
-## 💼 Experience
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=Experience&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="Experience" />
 
 **Software Engineer, MSc Thesis Research (ReqSmell)** · Blekinge Institute of Technology · *Jan 2025 – Present*
 - Engineered 4 concurrent async LLM pipelines (Claude API, GPT-4) with zero cross-pipeline contamination in thesis evaluation, through fault-isolated asyncio orchestration in FastAPI.
@@ -158,34 +184,43 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 - Delivered enterprise Angular UI components to PwC compliance and accessibility standards, with QA sign-off inside sprint timelines, across product, QA, and backend teams.
 - Contributed to UI testing cycles and technical documentation, building foundational knowledge of enterprise-grade software delivery within a structured SDLC.
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=Featured%20Projects&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="Featured Projects" />
 
-## 🚀 Featured Projects
+<br />
 
-### [🤖 ReqSmell — AI Requirements Analysis Tool](https://reqsmell.netlify.app)
-> M.Sc. thesis project (2025 – 2026) evaluating whether large language models can detect ambiguity and inconsistency in software requirements. Built as two independently versioned services, a React/TypeScript SPA frontend and a Python/FastAPI backend, running the same requirement set through Claude and GPT-4 under identical prompts and reporting where the two models agree or diverge.
+<table>
+<tr><td>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2CA5E0&height=70&section=header&text=%F0%9F%A4%96%20ReqSmell&fontSize=26&fontColor=FFFFFF&fontAlignY=55&fontAlign=8" width="100%" alt="ReqSmell" />
+
+**AI Requirements Analysis Tool** · [Live Demo ↗](https://reqsmell.netlify.app)
+
+M.Sc. thesis project (2025 – 2026) evaluating whether large language models can detect ambiguity and inconsistency in software requirements. Built as two independently versioned services, a React/TypeScript SPA frontend and a Python/FastAPI backend, running the same requirement set through Claude and GPT-4 under identical prompts and reporting where the two models agree or diverge.
 
 - Ran four independent async pipelines per analysis (ambiguity and inconsistency, across both providers), isolating failures so one pipeline erroring never blocks the others from returning results.
 - Built a comparison engine that aggregates per-model results into per-domain and per-type smell rates, then computes full agreement, Claude-only, and GPT-4-only detection counts across the same requirement set.
 - Added a mock LLM mode (`USE_REAL_LLM=false`) returning deterministic responses with no network calls, letting the full pipeline and 22-test backend suite run without provider cost or API keys.
 - Gated every pull request on Ruff, mypy strict mode, and pylint at a minimum score of 10.0 for the backend, and ESLint plus a TypeScript check for the frontend, via separate GitHub Actions workflows.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://reqsmell.netlify.app)
+![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=2CA5E0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2CA5E0)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2CA5E0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=2CA5E0)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=2CA5E0)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-0D1117?style=flat-square&logo=pydantic&logoColor=2CA5E0)
+![Claude](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=2CA5E0)
+![GPT-4](https://img.shields.io/badge/GPT--4-0D1117?style=flat-square&logo=openai&logoColor=2CA5E0)
+![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2CA5E0)
 
----
+</td></tr>
+<tr><td>
 
-### [✈️ MikunAir — Full Stack Flight Booking Application](https://mikunair.netlify.app)
-> Full-stack flight booking platform (2025 – 2026) covering the complete passenger journey: search, seat and cabin selection, booking, history, and cancellation, including connecting itineraries and return trips. Built as two independently versioned services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API on PostgreSQL, each with its own GitHub Actions CI pipeline and Docker image.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2CA5E0&height=70&section=header&text=%E2%9C%88%EF%B8%8F%20MikunAir&fontSize=26&fontColor=FFFFFF&fontAlignY=55&fontAlign=8" width="100%" alt="MikunAir" />
+
+**Full-Stack Flight Booking Application** · [Live Demo ↗](https://mikunair.netlify.app)
+
+Full-stack flight booking platform (2025 – 2026) covering the complete passenger journey: search, seat and cabin selection, booking, history, and cancellation, including connecting itineraries and return trips. Built as two independently versioned services, a React 18/TypeScript SPA (Vite, Tailwind, Apollo Client) and a Node.js/Express/TypeScript API on PostgreSQL, each with its own GitHub Actions CI pipeline and Docker image.
 
 - Prevented double-selling the last seat on a flight under concurrent requests by locking the flight row with a PostgreSQL `SELECT FOR UPDATE` inside a Drizzle ORM transaction; the losing request receives a typed `409 NO_SEATS_AVAILABLE` error.
 - Paired direct flights into connecting itineraries by matching a leg's destination to the next leg's origin within a 45-minute to 6-hour layover window, exposed through a depth-limited GraphQL search endpoint alongside a REST API for auth, bookings, and admin operations.
@@ -193,27 +228,30 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 - Applied a PII sanitiser to every structured log call, redacting fields such as email, full name, date of birth, and document number before they reach Winston, and recorded every booking action to an append-only audit log keyed by request correlation ID.
 - Verified the full stack with 47 backend and 144 frontend unit and component tests, plus a five-spec Playwright E2E suite covering guest booking, authenticated return booking, auth flows, profile management, and cancellation, run in CI against a live backend, frontend, and PostgreSQL instance.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=flat&logo=apollographql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://mikunair.netlify.app)
+![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=2CA5E0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2CA5E0)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2CA5E0)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=2CA5E0)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=2CA5E0)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-0D1117?style=flat-square&logo=apollographql&logoColor=2CA5E0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2CA5E0)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0D1117?style=flat-square&logoColor=2CA5E0)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=2CA5E0)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=2CA5E0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=2CA5E0)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=2CA5E0)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2CA5E0)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2CA5E0)
 
----
+</td></tr>
+<tr><td>
 
-### 🚨 IncidentTrack — Incident Management Platform
-> Full-stack incident management system for engineering teams, covering the response workflow from an incident being opened through investigation, mitigation, resolution, and postmortem review. Built as two independently versioned services, a React 19/TypeScript SPA and a Node.js/Express/TypeScript API on PostgreSQL via Prisma.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2CA5E0&height=70&section=header&text=%F0%9F%9A%A8%20IncidentTrack&fontSize=26&fontColor=FFFFFF&fontAlignY=55&fontAlign=8" width="100%" alt="IncidentTrack" />
+
+**Incident Management Platform**
+
+Full-stack incident management system for engineering teams, covering the response workflow from an incident being opened through investigation, mitigation, resolution, and postmortem review. Built as two independently versioned services, a React 19/TypeScript SPA and a Node.js/Express/TypeScript API on PostgreSQL via Prisma.
 
 - Enforced a strict incident state machine on the server (`OPEN → INVESTIGATING → MITIGATED → RESOLVED → REVIEWED`, with a direct `OPEN → MITIGATED` and `INVESTIGATING → RESOLVED` path); any transition outside this graph is rejected with a `409`, so an invalid state cannot be reached even if the frontend has a bug.
 - Tied incident severity to automatic service status changes: a SEV1 incident forces its service to `OUTAGE` and a SEV2 forces `DEGRADED`, while SEV3 and SEV4 leave service status untouched.
@@ -221,58 +259,67 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 - Implemented role-based access for three roles (`VIEWER`, `RESPONDER`, `ADMIN`) enforced server-side, including a rule that rejects any change that would leave the platform with zero admins.
 - Tested the backend with 46 Vitest and Supertest tests run against a real PostgreSQL instance rather than mocks, reaching 86% statement coverage, and the frontend with 52 React Testing Library tests across the auth, incident, service, team, and audit views.
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=2CA5E0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2CA5E0)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2CA5E0)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=2CA5E0)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2CA5E0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2CA5E0)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=2CA5E0)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=2CA5E0)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2CA5E0)
 
----
+</td></tr>
+<tr><td>
 
-### [🛒 MikunStore — E-Commerce Platform](https://productseacrh.netlify.app/)
-> Production-ready SPA (2025) built from the ground up with Vue 3, Pinia, and Vue Router 4, migrated from a React prototype. Supports multi-currency (USD, GBP, EUR, NGN) and multi-language (EN, FR, NL, DE, SV) architecture serving a live landing page and full product catalogue.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2CA5E0&height=70&section=header&text=%F0%9F%9B%92%20MikunStore&fontSize=26&fontColor=FFFFFF&fontAlignY=55&fontAlign=8" width="100%" alt="MikunStore" />
+
+**E-Commerce Platform** · [Live Demo ↗](https://productseacrh.netlify.app/)
+
+Production-ready SPA (2025) built from the ground up with Vue 3, Pinia, and Vue Router 4, migrated from a React prototype. Supports multi-currency (USD, GBP, EUR, NGN) and multi-language (EN, FR, NL, DE, SV) architecture serving a live landing page and full product catalogue.
 
 - Engineered a client-side PDF receipt generator using jsPDF with a custom vector logo stamp, zebra-striped item tables, discount badges, and per-currency formatting, requiring zero server-side rendering.
 - Enforced zero-warning ESLint on every commit via Husky pre-commit hooks with lint-staged, and gated all merges behind a three-stage GitHub Actions CI pipeline covering lint, production build, and Cypress E2E tests against a Vite preview server.
 - Containerised the application with a hardened multi-stage Dockerfile using a non-root user, node:20-alpine base, explicit file copy, and a .dockerignore excluding secrets and build artefacts.
 
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
-![Vue Router](https://img.shields.io/badge/Vue_Router_4-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=flat&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Husky](https://img.shields.io/badge/Husky-000000?style=flat&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://productseacrh.netlify.app/)
+![Vue 3](https://img.shields.io/badge/Vue_3-0D1117?style=flat-square&logo=vuedotjs&logoColor=2CA5E0)
+![Pinia](https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=2CA5E0)
+![Vue Router](https://img.shields.io/badge/Vue_Router_4-0D1117?style=flat-square&logo=vuedotjs&logoColor=2CA5E0)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=2CA5E0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=2CA5E0)
+![jsPDF](https://img.shields.io/badge/jsPDF-0D1117?style=flat-square&logoColor=2CA5E0)
+![Cypress](https://img.shields.io/badge/Cypress-0D1117?style=flat-square&logo=cypress&logoColor=2CA5E0)
+![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=2CA5E0)
+![Husky](https://img.shields.io/badge/Husky-0D1117?style=flat-square&logoColor=2CA5E0)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2CA5E0)
 
----
+</td></tr>
+<tr><td>
 
-### [🎬 CineVault — Movie Discovery Platform](https://mikun-films.netlify.app/)
-> Type-safe movie discovery platform powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV).
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2CA5E0&height=70&section=header&text=%F0%9F%8E%AC%20CineVault&fontSize=26&fontColor=FFFFFF&fontAlignY=55&fontAlign=8" width="100%" alt="CineVault" />
+
+**Movie Discovery Platform** · [Live Demo ↗](https://mikun-films.netlify.app/)
+
+Type-safe movie discovery platform powered by the TMDB API. Browse movies, filter by genre with multi-select, paginate results, and view full details including ratings, runtime, and production info. Features a rotating hero carousel, dark/light mode, and a 5-language switcher (EN, FR, NL, DE, SV).
 
 - Built a type-safe film discovery platform integrating the TMDB REST API with genre filtering and per-request language headers, with TypeScript strict mode enforced across all API response shapes and Redux slices.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TMDB API](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://mikun-films.netlify.app/)
+![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=2CA5E0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2CA5E0)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=2CA5E0)
+![Axios](https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=2CA5E0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=2CA5E0)
+![TMDB API](https://img.shields.io/badge/TMDB_API-0D1117?style=flat-square&logo=themoviedatabase&logoColor=2CA5E0)
+![React Router](https://img.shields.io/badge/React_Router-0D1117?style=flat-square&logo=react-router&logoColor=2CA5E0)
 
----
+</td></tr>
+</table>
 
-## 🎓 Education
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=Education&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="Education" />
 
 **M.Sc. Software Engineering** — Blekinge Institute of Technology, Sweden *(Sep 2024 – Expected Sep 2026)*
 > Thesis: *AI-assisted Detection of Requirements Smells* (defence September 2026)
@@ -283,20 +330,18 @@ Thesis: **AI-assisted Detection of Requirements Smells**.
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=60&section=header&text=Certifications&fontSize=24&fontColor=2CA5E0&fontAlignY=68" width="100%" alt="Certifications" />
 
-## 📜 Certifications
-
-![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server_Administrator-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=2CA5E0)
+![SQL](https://img.shields.io/badge/SQL_Server_Administrator-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=2CA5E0)
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:0D1117&height=150&section=footer&text=Let%27s%20build%20something&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer" />
 
 <div align="center">
 
-### 🤝 Open to collaborations on full-stack systems and AI-assisted engineering projects
+*Open to collaborations on full-stack systems and AI-assisted engineering projects*
 
 <img src="https://komarev.com/ghpvc/?username=Mikun07&style=flat-square&color=2CA5E0" alt="Profile views" />
 
